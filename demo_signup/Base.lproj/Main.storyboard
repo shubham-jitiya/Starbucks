@@ -73,8 +73,8 @@
                                     <color key="baseBackgroundColor" red="0.058866831379999998" green="0.33192443849999997" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </buttonConfiguration>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="starbucks" translatesAutoresizingMaskIntoConstraints="NO" id="Fqk-hx-wjJ">
-                                <rect key="frame" x="76" y="117" width="240" height="128"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="starbucks" translatesAutoresizingMaskIntoConstraints="NO" id="Fqk-hx-wjJ">
+                                <rect key="frame" x="76" y="117" width="241" height="128"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="128" id="OO8-ao-bAQ"/>
                                 </constraints>
