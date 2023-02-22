@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		510B0F9429A5E6D10087B3FF /* File_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510B0F9329A5E6D10087B3FF /* File_1.swift */; };
 		51369A15299B652E000F0E92 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51369A14299B652E000F0E92 /* LoginViewController.swift */; };
 		51530DB2299A4EAF00F09AFE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51530DB1299A4EAF00F09AFE /* AppDelegate.swift */; };
 		51530DB4299A4EAF00F09AFE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51530DB3299A4EAF00F09AFE /* SceneDelegate.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		510B0F9329A5E6D10087B3FF /* File_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File_1.swift; sourceTree = "<group>"; };
 		51369A14299B652E000F0E92 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		51530DAE299A4EAF00F09AFE /* demo_signup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo_signup.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51530DB1299A4EAF00F09AFE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				51530DE1299A4F1400F09AFE /* SignUpViewController.swift */,
 				51369A14299B652E000F0E92 /* LoginViewController.swift */,
 				51D0BEC7299B890900B2A0C3 /* Assets.xcassets */,
+				510B0F9329A5E6D10087B3FF /* File_1.swift */,
 			);
 			path = demo_signup;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				51530DB6299A4EAF00F09AFE /* ViewController.swift in Sources */,
 				51530DB2299A4EAF00F09AFE /* AppDelegate.swift in Sources */,
 				51530DE2299A4F1400F09AFE /* SignUpViewController.swift in Sources */,
+				510B0F9429A5E6D10087B3FF /* File_1.swift in Sources */,
 				51369A15299B652E000F0E92 /* LoginViewController.swift in Sources */,
 				51530DB4299A4EAF00F09AFE /* SceneDelegate.swift in Sources */,
 			);
